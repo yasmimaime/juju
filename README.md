@@ -1,29 +1,15 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz "Você se daria bem com a Julia"</title>
-    <link rel="stylesheet" href="ju.css"> 
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Bem-vindo ao Quiz JuJu</h1>
-            <p>Teste seus conhecimentos! E veja se você se daria bem com a Julia.</p>
-        </header>
-        <main>
-            <div id="question-container">
-                <h2 id="question"></h2>
-                <div id="options-container">
-                   
-                </div>
-            </div>
-            <div id="result"></div>
-        </main>
-    </div>
+Quiz "Você se daria bem com a Júlia?"
+Este é um simples quiz em formato de página HTML que permite aos usuários testarem seus conhecimentos sobre a Júlia.
 
-    <script src="ju.java"></script> <!-- Conectando o arquivo JavaScript -->
-</body>
-</html>
-
+Funcionalidades
+Apresenta uma série de perguntas sobre a Júlia.
+O usuário pode escolher entre várias opções de resposta.
+A resposta correta é destacada.
+No final, o usuário recebe uma pontuação e uma mensagem com base em suas respostas.
+Como usar
+Faça o download dos arquivos HTML, CSS e JavaScript.
+Abra o arquivo HTML em seu navegador da web.
+Responda às perguntas clicando nas opções fornecidas.
+No final, você receberá uma pontuação com base em suas respostas.
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para fazer fork deste projeto e adicionar novas funcionalidades, corrigir bugs ou melhorar o código.
